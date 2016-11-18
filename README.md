@@ -1,1 +1,1 @@
-# RandomQuoteGnnerator
+# Random Quote Generator
